@@ -68,7 +68,7 @@ The end-to-end process for using this system involves three main steps:
 
 If you use this work in your own research, please cite the final report:
 
-> [A. Osman]. (2025). *Electromyography (EMG) Signal Pattern Classification with a Modular 3D-Printed Signal Acquisition Armband*. Final Year Project Report, Department of Electrical and Electronic Engineering, Imperial College London.
+> [A. Osman]. (2025). *Electromyography (EMG) Signal Pattern Classification with a Modular 3D-Printed Signal Acquisition Armband*. Final Year Project Report Supervised by Prof. K. Fobeletes, Department of Electrical and Electronic Engineering, Imperial College London.
 
 ## License
 
@@ -76,4 +76,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Acknowledgements
 
-I would like to thank my supervisor, Professor Kristel Fobelets, for her invaluable guidance and support throughout this project. You were awesome!
+I would like to thank my supervisor, Professor Kristel Fobelets, for her absolutely invaluable guidance and support throughout this project. You were awesome!
