@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-brightgreen.svg)
 
-This repository contains the core hardware designs, datasets, and machine learning notebooks for a final year project at Imperial College London. The project delivers a complete, low-cost, and open-source system for classifying hand and wrist gestures from surface electromyography (sEMG) signals in real-time.
+This repository contains the core hardware designs, and machine learning notebooks for a final year project at Imperial College London. The project delivers a complete, low-cost, and open-source system for classifying hand and wrist gestures from surface electromyography (sEMG) signals in real-time.
 
 The primary goal is to address the limitations of expensive, proprietary, and inflexible commercial sEMG systems by providing an accessible and highly adaptable platform for researchers, students, and hobbyists.
 
