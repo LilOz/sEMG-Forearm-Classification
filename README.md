@@ -25,7 +25,7 @@ The system is designed around a custom 3D-printed armband that houses up to eigh
 
 | Assembled System | Armband Design | Sensor Module |
 | :---: | :---: | :---: |
-| ![Full System Being Worn](./assets/full_system_photo.jpg) | ![TPU Armband](./assets/armband_photo.jpg) | ![Sensor Module](./assets/sensor_module_photo.jpg) |
+| ![Full System Being Worn](./assets/final-hardware-all.png) | ![TPU Armband](./assets/armband.png) | ![Sensor Module](./assets/sensor-module.png) |
 | The complete system worn on the forearm, connected to the OpenBCI Cyton board. | The flexible TPU armband with cutouts for modular sensor placement. | A rigid PLA sensor pod holding two dry Ag/AgCl electrodes. |
 
 All `.stl` and source CAD files for 3D printing are available in the `/hardware` directory of this repository. For full assembly instructions, please see the User Guide in the final report.
