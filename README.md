@@ -23,12 +23,12 @@ The primary goal is to address the limitations of expensive, proprietary, and in
 
 The system is designed around a custom 3D-printed armband that houses up to eight bipolar sEMG sensors.
 
-| Assembled System | Armband Design | Sensor Module |
-| :---: | :---: | :---: |
-| ![Full System Being Worn](./assets/final-hardware-all.png) | ![TPU Armband](./assets/armband.png) | ![Sensor Module](./assets/sensor-module.png) |
-| The complete system worn on the forearm, connected to the OpenBCI Cyton board. | The flexible TPU armband with cutouts for modular sensor placement. | A rigid PLA sensor pod holding two dry Ag/AgCl electrodes. |
+| Assembled System |
+| :---: |
+| ![Full System Being Worn](./assets/final-hardware-all.png) |
+| The complete system worn on the forearm, connected to the OpenBCI Cyton board. |
 
-All `.stl` and source CAD files for 3D printing are available in the `/hardware` directory of this repository. For full assembly instructions, please see the User Guide in the final report.
+All `.3mf` and source CAD files for 3D printing are available in the `/hardware` directory of this repository. For full assembly instructions, please see the User Guide in the final report.
 
 ---
 
