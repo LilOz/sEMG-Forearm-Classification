@@ -5,7 +5,7 @@
 
 This repository contains the core hardware designs, and machine learning notebooks for a final year project at Imperial College London. The project delivers a complete, low-cost, and open-source system for classifying hand and wrist gestures from surface electromyography (sEMG) signals in real-time.
 
-The primary goal is to address the limitations of expensive, proprietary, and inflexible commercial sEMG systems by providing an accessible and highly adaptable platform for researchers, students, and hobbyists.
+The primary goal is to address the limitations of expensive, proprietary, and inflexible commercial sEMG systems by providing an accessible and highly adaptable platform for researchers, students, and hobbyists who are working with the OpenBCI Cyton Board.
 
 ---
 
